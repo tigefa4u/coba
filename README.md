@@ -1,6 +1,7 @@
 # coba
 
 [![GitHub license](https://img.shields.io/github/license/tigefa4u/coba?style=for-the-badge)](https://github.com/tigefa4u/coba/blob/main/LICENSE)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tigefa4u/coba?sort=semver&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/tigefa4u/coba?style=for-the-badge)](https://github.com/tigefa4u/coba/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tigefa4u/coba?style=for-the-badge)](https://github.com/tigefa4u/coba/network)
 [![GitHub stars](https://img.shields.io/github/stars/tigefa4u/coba?style=for-the-badge)](https://github.com/tigefa4u/coba/stargazers)
